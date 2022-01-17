@@ -8,13 +8,13 @@
 <h1 align="center">Send Single Email With Python</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{EdgardoDev}}/send-single-email?color=1976D2">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/EdgardoDev/send-single-email?color=1976D2">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{EdgardoDev}}/send-single-email?color=1976D2">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/EdgardoDev/send-single-email?color=1976D2">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{EdgardoDev}}/send-single-email?color=1976D2">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EdgardoDev/send-single-email?color=1976D2">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{EdgardoDev}}/send-single-email?color=1976D2">
+  <img alt="License" src="https://img.shields.io/github/license/EdgardoDev/send-single-email?color=1976D2">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/send-single-email?color=56BEB8" /> -->
 
@@ -38,7 +38,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/EdgardoDev" target="_blank">Author</a>
 </p>
 
 <br>
@@ -67,7 +67,7 @@ Before starting :checkered_flag:, you need to have [Python 3+](https://www.pytho
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{EdgardoDev}}/send-single-email
+$ git clone https://github.com/EdgardoDev/send-single-email
 
 # Access
 $ cd send-single-email
@@ -78,7 +78,7 @@ $ cd send-single-email
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{EdgardoDev}}" target="_blank">{{Edgardo Pinto-Escalier}}</a>
+Made with :heart: by <a href="https://github.com/EdgardoDev" target="_blank">Edgardo Pinto-Escalier</a>
 
 &#xa0;
 
