@@ -1,21 +1,20 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Send Single Email" />
 
   &#xa0;
 
   <!-- <a href="https://sendsingleemail.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Send Single Email</h1>
+<h1 align="center">Send Single Email With Python</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/send-single-email?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{EdgardoDev}}/send-single-email?color=1976D2">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/send-single-email?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{EdgardoDev}}/send-single-email?color=1976D2">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/send-single-email?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{EdgardoDev}}/send-single-email?color=1976D2">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/send-single-email?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/{{EdgardoDev}}/send-single-email?color=1976D2">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/send-single-email?color=56BEB8" /> -->
 
@@ -46,44 +45,32 @@
 
 ## :dart: About ##
 
-Describe your project
+Send a single email using Python
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Automate the process of sending a single email.
 
-## :rocket: Technologies ##
 
-The following tools were used in this project:
+## :rocket: Modules ##
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+The following modules were used in this project:
+
+- [yagmail](https://pypi.org/project/yagmail/)
+- [python-dotenv](https://pypi.org/project/python-dotenv/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Python 3+](https://www.python.org/download/releases/3.0/) installed.
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/send-single-email
+$ git clone https://github.com/{{EdgardoDev}}/send-single-email
 
 # Access
 $ cd send-single-email
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
@@ -91,7 +78,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/{{EdgardoDev}}" target="_blank">{{Edgardo Pinto-Escalier}}</a>
 
 &#xa0;
 
