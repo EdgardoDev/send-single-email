@@ -58,6 +58,7 @@ The following modules were used in this project:
 
 - [yagmail](https://pypi.org/project/yagmail/)
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
+- [os](https://docs.python.org/3/library/os.html#module-os)
 
 ## :white_check_mark: Requirements ##
 
